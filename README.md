@@ -10,7 +10,7 @@ Escornabot es un projecte obert (https://escornabot.com)
 
 Tota la [documentació es pot trobar en PDF](https://github.com/maynej/EscornaFlex/tree/master/Doc/EscornaFlex.pdf).
 
-STL per imprimir (https://github.com/maynej/Escornaflex/stl).
+STL per imprimir (https://github.com/maynej/EscornaFlex/tree/master/stl).
 
 <img src="Imatges/Escornaflex3d.png" width="300" />
 
