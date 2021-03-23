@@ -1,6 +1,6 @@
 # EscornaFlex
 
-EscornaFlex es una modificació de l'estructura original per portar una placa 2.12, 2.20, Sensor de distància i RFID 
+EscornaFlex es una modificació de l'estructura original de Escornabot amb la flexibilitat de poder portar una placa de control 2.12 o 2.20, un sensor de distància per ultrasons i un lector RFID 
 
 Realitzada per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study <img src="Imatges/Logo3senseFons.png" width="50" />
 
